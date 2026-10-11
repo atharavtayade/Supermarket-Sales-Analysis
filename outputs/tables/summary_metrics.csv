@@ -1,0 +1,15 @@
+Metric,Value
+total_transactions,1000.0
+total_sales,322966.75
+average_transaction,322.97
+median_transaction,253.85
+max_transaction,1042.65
+min_transaction,10.68
+std_transaction,245.89
+total_quantity,5510.0
+avg_quantity_per_txn,5.51
+total_gross_income,15379.37
+avg_gross_income,15.38
+avg_rating,6.97
+median_rating,7.0
+total_cogs,307587.38

@@ -1,0 +1,3 @@
+Model,RMSE ($),MAE ($),R² Score
+Baseline (Mean),255.75,209.77,-0.0053
+Random Forest,10.12,6.73,0.9984
